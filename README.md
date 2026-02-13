@@ -1,2 +1,42 @@
-# temporal-gis-india-historical-geospatial-evolution
-Temporal GIS framework to integrate historical records with modern geospatial data. Visualize landscape, economic, and social change over decades or centuries. Supports Viksit Bharat planning with time-enabled maps, spatial analysis, and actionable insights for researchers, planners, and policymakers.
+
+---
+
+## Methodology Workflow
+
+1. Collect historical geospatial and archival datasets  
+2. Digitize and georeference historical records  
+3. Standardize coordinate reference systems  
+4. Assign temporal attributes to spatial layers  
+5. Store in temporal-enabled spatial databases  
+6. Visualize and analyze spatial evolution  
+
+---
+
+## Applications for Viksit Bharat
+
+Temporal GIS enables:
+
+- Long-term infrastructure planning  
+- Regional development assessment  
+- Identification of growth corridors  
+- Evidence-based policymaking  
+- Sustainable development planning  
+
+---
+
+## Future Scope
+
+- Interactive web-based temporal GIS platform  
+- AI-assisted historical map digitization  
+- Integration with national open data platforms  
+- Predictive spatial modeling  
+
+---
+
+## License
+
+Open for research, academic, and policy use.
+
+---
+
+Created by Kallol Chakrabarti, Global Independent Researcher
